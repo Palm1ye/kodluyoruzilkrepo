@@ -12,7 +12,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 Öncelikle projeyi clonelayın.
 
 ```bash
-git clone https://github.com/ayemnatokey/kodluyoruzilkrepo.git
+git clone https://github.com/palm1ye/kodluyoruzilkrepo.git
 ```
 
 ## Usage
